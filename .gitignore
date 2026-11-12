@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+/.agent-eval/
+/docs/agent-eval/runs/
+/docs/agent-eval/APP_CONTEXT.local.md
